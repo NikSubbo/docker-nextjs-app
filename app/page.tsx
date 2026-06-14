@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
         <h1 className="mt-12 max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-          Hi 👋
+          Hi! 👋
         </h1>
       </main>
     </div>
